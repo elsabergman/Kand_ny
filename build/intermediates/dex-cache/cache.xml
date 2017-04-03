@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/elsabergman/Mina dokument/STS år 3/Kandidatarbete/Front End/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc3e4d8f64a60e10cf78263dce6e134134be5a96">
+        <dex dex="/Users/elsabergman/Mina dokument/STS år 3/Kandidatarbete/Front End/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_16667e80feeb3148578128cbe58e2b0f9fb2b475/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/elsabergman/Mina dokument/STS år 3/Kandidatarbete/Front End/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/elsabergman/Mina dokument/STS år 3/Kandidatarbete/Front End/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_87747538e51a72dd53c6deaaddefc9104dead2af/classes.dex" />
+    </item>
+
+</items>
