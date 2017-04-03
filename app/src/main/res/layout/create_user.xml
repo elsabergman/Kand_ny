@@ -20,10 +20,8 @@
         android:text="Welcome to CampUUs!"
         android:textColor="#fff"
         android:textSize="25sp"
-        android:layout_below="@id/magglass"
         android:layout_marginTop="10dp"
-        android:layout_centerLeft="true"
-
+        android:layout_centerHorizontal="true"
         />
 
     <ImageView
@@ -33,6 +31,7 @@
         android:background="@drawable/campus_hat"
         android:layout_toRightOf="@+id/title1"
         android:layout_marginTop="30dp"
+
         />
 
     <TextView
@@ -44,7 +43,7 @@
         android:textSize="18sp"
         android:layout_below="@id/title1"
         android:layout_marginTop="20dp"
-        android:layout_l="true"
+
 
         />
 
