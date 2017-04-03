@@ -88,7 +88,7 @@
                 />
             <TextView
                 android:id="@+id/hitLabel"
-                android:text="Rad2 "
+                android:text="Radhuiuo "
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
                 android:padding="10dp"
